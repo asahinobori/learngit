@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git is easy to use.
 Creating a new branch is quick.
 modify master.
+Creating a new branch is quick AND simple.

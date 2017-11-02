@@ -1,3 +1,5 @@
+lession link: http://t.cn/zQ6LFwE
+
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
@@ -9,3 +11,4 @@ Creating a new branch is quick and simple.
 add merge.
 
 long time no see !
+http://t.cn/zQ6LFwE

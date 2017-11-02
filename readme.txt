@@ -11,4 +11,3 @@ Creating a new branch is quick and simple.
 add merge.
 
 long time no see !
-http://t.cn/zQ6LFwE

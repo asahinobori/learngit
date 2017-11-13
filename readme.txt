@@ -9,4 +9,4 @@ Creating a new branch is quick and simple.
 add merge.
 
 
-what a long time since last modification. test cooperation.
+what a long time, since last modification. test cooperation.
